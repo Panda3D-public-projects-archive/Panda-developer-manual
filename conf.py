@@ -54,7 +54,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'Panda3D dev Manual'
+project = u'Panda3D unofficial dev Manual'
 copyright = u'2016, Public Domain'
 author = u'frainfreeze'
 

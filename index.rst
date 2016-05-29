@@ -1,5 +1,5 @@
-Welcome to Panda3D dev Manual's documentation!
-==============================================
+Welcome to unofficial Panda3D developer Manual!
+===============================================
 
 Contents:
 
