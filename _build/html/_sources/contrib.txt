@@ -1,6 +1,0 @@
-# contrib #
-Code contributed by the community.
-
-This code is usually not maintained
-by the developers but by the respective
-community contributors

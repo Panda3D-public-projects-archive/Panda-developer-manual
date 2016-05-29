@@ -9,7 +9,7 @@ Welcome to Panda3D dev Manual's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :caption: Table of Contents
    :name: mastertoc
    
@@ -18,11 +18,3 @@ Contents:
    other
    misc and FAQ
    Appendix
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-

@@ -1,2 +1,0 @@
-# The Graphics Engine #
-lorem ipsum
