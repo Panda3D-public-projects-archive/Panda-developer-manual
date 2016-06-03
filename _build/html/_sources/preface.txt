@@ -1,6 +1,6 @@
 # Preface #
 Book is organized in tree structure that follows panda 1.9 source tree.
-It might also contains doc strings and comments from source code.
+It might also contain doc strings and comments from the source code.
 
 Manual is built from several parts:
 
