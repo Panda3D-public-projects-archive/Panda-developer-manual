@@ -31,7 +31,5 @@ $ make html
 
 Cool editors:
 
-[![Typora](https://img.shields.io/badge/OSX, Win-Typora-blue.svg?style=flat-square)](https://www.typora.io/)
-[![Markdownpad 2](https://img.shields.io/badge/Win-Markdownpad-blue.svg?style=flat-square)](http://markdownpad.com/)
-[![vim-markdown-composer](https://img.shields.io/badge/Win, *nix-vimMarkdownComposer-blue.svg?style=flat-square)](https://github.com/euclio/vim-markdown-composer)
+[Typora](https://www.typora.io/) | [Markdownpad 2](http://markdownpad.com/) | [vim-markdown-composer](https://github.com/euclio/vim-markdown-composer)
 
